@@ -1,0 +1,79 @@
+{
+  "name": "angular-jest-scaffolder",
+  "version": "1.0.0",
+  "description": "An NPM package to scaffold Angular with Jest as the default testing framework.",
+  "main": "index.js",
+  "bin": {
+    "angular-jest-scaffolder": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "readme": "https://github.com/jaisayush/angular-jest-scaffolder/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaisayush/angular-jest-scaffolder.git"
+  },
+  "author": {
+    "name": "Ayush Jaiswal",
+    "email": "ayush.jaiswal47.aj@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jaisayush/angular-jest-scaffolder/issues"
+  },
+  "homepage": "https://github.com/jaisayush/angular-jest-scaffolder",
+  "license": "MIT",
+  "contributors": [
+    "Ayush Jaiswal <ayush.jaiswal47.aj@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "jest",
+    "angular-jest",
+    "unit-testing",
+    "angular-cli",
+    "angular-boilerplate",
+    "angular-jest-scaffolder",
+    "angular-jest-integration",
+    "angular-jest-setup",
+    "jest-angular-cli",
+    "jest-angular-setup",
+    "typescript-jest",
+    "jest-scaffolding",
+    "jest-boilerplate",
+    "angular-jest-configuration",
+    "jest-angular-config",
+    "angular-testing-tools",
+    "jest-testing-framework",
+    "testing-framework",
+    "jest-test-runner",
+    "typescript-unit-tests",
+    "jest-cli-integration",
+    "angular-unit-testing",
+    "ng-jest",
+    "command-line-tool",
+    "test-automation-angular",
+    "cli",
+    "scaffolder",
+    "scaffolding",
+    "remove-jasmine",
+    "remove-karma",
+    "jasmine",
+    "karma"
+  ],
+  "dependencies": {
+    "commander": "^12.1.0",
+    "json5": "^2.2.3",
+    "semver": "^7.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "jest-junit": "^16.0.0",
+    "jest-preset-angular": "^14.2.4",
+    "@angular/cli": "^18.2.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
