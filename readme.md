@@ -1,9 +1,9 @@
 # 🚀 Angular Jest Scaffolder
 
 [![npm version](https://badge.fury.io/js/angular-jest-scaffolder.svg)](https://badge.fury.io/js/angular-jest-scaffolder)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/angular-jest-scaffolder)](https://github.com/yourusername/angular-jest-scaffolder/issues)
+[![GitHub issues](https://img.shields.io/github/issues/jaisayush/angular-jest-scaffolder)](https://github.com/jaisayush/angular-jest-scaffolder/issues)
 [![npm](https://img.shields.io/npm/dt/angular-jest-scaffolder)](https://www.npmjs.com/package/angular-jest-scaffolder)
-[![GitHub license](https://img.shields.io/github/license/yourusername/angular-jest-scaffolder)](https://github.com/yourusername/angular-jest-scaffolder/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/jaisayush/angular-jest-scaffolder)](https://github.com/jaisayush/angular-jest-scaffolder/blob/main/LICENSE)
 
 **Angular Jest Scaffolder** is a command-line tool designed to simplify the setup of Angular applications with Jest as the default testing framework, eliminating the need for Jasmine and Karma. This tool creates a new Angular app using version 18 and configures it for modern testing practices.
 
